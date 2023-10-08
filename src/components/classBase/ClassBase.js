@@ -1,5 +1,6 @@
 import React from "react";
 
+// class base components
 class ClassBase extends React.Component {
   constructor(props) {
     super(props);
